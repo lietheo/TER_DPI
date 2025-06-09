@@ -1,4 +1,6 @@
-![Logo Université de Strasbourg](logo/univ.jpg) ![Logo FAC](logo/fac_geo.png)
+<p align="center">
+  <img src="logo/fac_geo.png" alt="Université de Strasbourg" width="200" />
+</p>
 
 # Projet TER DPI — Harmonisation et Automatisation des Données Réseaux  
 **Diplôme Observation de la Terre et Géomatique (OTG)**  
